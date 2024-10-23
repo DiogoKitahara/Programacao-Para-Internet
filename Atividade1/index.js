@@ -32,7 +32,7 @@ function tabuada (requisicao, resposta) {
             </head>
             <body>
                 <h3>Informe corretamento o número da tabuada e a sequencia</h3>
-                <h3>Exemplo: http://localhost:3000/?taubada=3&sequencia15</p></h3>
+                <h3>Exemplo: http://localhost:3000/?tabuada=3&sequencia=15</p></h3>
             </body>
             </html>`);  
     }
